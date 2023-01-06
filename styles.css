@@ -1,0 +1,12 @@
+.container{
+    width: 960px;
+}
+
+.grid-row {
+    display: flex;
+}
+
+.gird-box {
+    border: 2px solid blueviolet;
+    background-color: aqua;
+}
